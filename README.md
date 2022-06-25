@@ -4,8 +4,7 @@ The IPDC algorithm was developed to screen for a wide variety of organic compoun
 The original manuscript is available at https://doi.org/10.1021/acs.analchem.9b03335
 
 The IPDC algorithm was also employed in the following manuscripts:
-##
-##
+#
 To detect PFAS breakdown products: https://doi.org/10.1021/acs.est.8b07031
 ##
 ##
